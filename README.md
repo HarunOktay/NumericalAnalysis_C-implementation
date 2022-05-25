@@ -1,4 +1,4 @@
-# NumericalAnalysis_C-implementation7
+# NumericalAnalysis_C_implementation
 Numerical analysis methods coded by Harun OKTAY, 2022 Spring. I coded numerical methods C implementation for Numerical Analysis Course, final project. 
 This program contains;
 Find approximate roots with "Bisection", "Regula-Falsi" and "Newton-Raphson" Methods//
